@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Shabir Ahmad 👋
 
-<!--
-**EngrShabir/EngrShabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer, studying Digital Engineering at Bauhaus University Weimar(Germany). I build data analysis tools, API apps and automation scripts.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python (Core + OOP)
+- Data Analysis (pandas, matplotlib)
+- APIs & JSON
+- SQLite & Databases
+
+---
+
+## 📂 Projects
+- Engineering Data Analysis Tool
+- Weather App (API-based)
+- Student Database System (SQLite)
+
+---
+
+## 🎯 Goals
+- Build real-world engineering tools
+- Grow as a Python developer
+- Start freelancing on Fiverr
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/shabir-ahmad-0886b0342
