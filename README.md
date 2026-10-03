@@ -2,7 +2,7 @@ Shabir Ahmad
 BIM Automation Engineer — IFC validation, IDS authoring, schema verification, and
 independent quantity verification.
 
-Admitted to Bauhaus University Weimar — Digital Engineering, 2026.
+MSc Digital Engineering @ Bauhaus University Weimar, since October 2026.
 
 ## Current Work
 
